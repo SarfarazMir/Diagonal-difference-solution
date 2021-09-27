@@ -1,5 +1,5 @@
 def diagonalDifference(arr):
-    diagonal1, diagonal2, difference = 0, 0, 0
+    diagonal1, diagonal = 0, 0
 
     for i in range(1):
         for j in range(len(arr[i])):
